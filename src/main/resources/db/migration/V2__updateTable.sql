@@ -1,0 +1,1 @@
+ALTER TABLE student add column mobile_number int;
