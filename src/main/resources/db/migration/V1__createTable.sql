@@ -5,3 +5,5 @@ CREATE TABLE student(
     age DOUBLE,
     PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--This is table
